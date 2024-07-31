@@ -33,3 +33,4 @@ alias v=nvim
 alias in='cd $HOME/Documents/Remote\ Vault/0.\ Inbox/'
 alias ob='cd $HOME/Documents/Remote\ Vault/'
 alias h='cd $HOME'
+alias rm= 'remouse --orientation right --mode fit --monitor 1 --password pydrnAL0c8'
